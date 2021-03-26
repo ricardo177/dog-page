@@ -1,0 +1,76 @@
+* {
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+    background-color: rgb(184, 184, 184);
+}
+
+.header-list {
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+.subtitle {
+    text-transform: uppercase;
+    margin-top: 1rem;
+}
+
+.email {
+    margin-top: 1rem;
+}
+
+.header-btn {
+    margin: 1rem; 
+} /*dá pra colocar os 4 valores (left, right, top, bottom) */
+
+.main-link {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* FIM DA HEADER*/
+
+.main-subtitle {
+    margin-top: 1rem;
+    margin-right: 2rem;
+}
+
+.main-btn {
+    margin-right: 1rem;
+}
+
+.title-sobre {
+    margin: 1rem 0;
+}
+
+.main-paragraph {
+    margin-top: 1rem;
+    width: 500px;
+    /*justificar o espaçamento*/
+}
+
+.img-dog {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    background-color: gray;
+    border-radius: 50%;
+    margin-top: 2rem;
+}
+
+.box-dog {
+    display: inline-block;
+}
+
+.footer-link{
+    display: inline-block;
+}
+
+.footer-media {
+    display: inline-block;  
+}
+
+.footer-list {
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
